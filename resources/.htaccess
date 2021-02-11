@@ -1,0 +1,11 @@
+<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+SetHandler application/x-lsphp71
+</FilesMatch>
+<FilesMatch "\.(php4|php5|php3|php2|php|phtml)$">
+AddHandler application/x-httpd-php71 .php
+</FilesMatch>
+
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301]
