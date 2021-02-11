@@ -8,6 +8,7 @@
 1. Then make a folder named **mextro** in _wp-content/themes/_
 1. Clone this repo in _/mextro_
 1. Upload **db.sql** from _/resources_ into your SQL database named **vrijstaat**
+1. Move _resources/plugins_ contents to _wp-content/plugins_
 
 
 ###### More information will be added as soon as necessary.
