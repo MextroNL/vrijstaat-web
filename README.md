@@ -1,7 +1,7 @@
 # Vrijstaat Organisation and **Staking Pool** Website              
 ## Powered by Mextro Media _(Non Profit)_
 
-### This Website serves the purpose of informing new users about Cardano, the concept op Staking, recruiting them for our Vrijstaat Staking Pool and ultimately spread the Vrijstaat Dream, a new way of dividing land in Europe and all the community services that go along with it.
+### This Website serves the purpose of informing new users about Cardano, the concept of Staking, recruiting them for our Vrijstaat Staking Pool and ultimately spread the Vrijstaat Dream, a new way of dividing land in Europe and all the community services and constitutions that go along with it.
 
 #### Built on WordPress 
 1. Clone https://github.com/WordPress/WordPress.git into root folder
