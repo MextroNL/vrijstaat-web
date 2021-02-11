@@ -3,5 +3,11 @@
 
 ### This Website serves the purpose of informing new users about Cardano, the concept op Staking, recruiting them for our Vrijstaat Staking Pool and ultimately spread the Vrijstaat Dream, a new way of dividing land in Europe and all the community services that go along with it.
 
+#### Built on WordPress 
+Clone https://github.com/WordPress/WordPress.git into root folder
+Then make a folder named **mextro** in _wp-content/themes/_
+Clone this repo in _/mextro_
+Upload **db.sql** from _/resources_ into your SQL database named **vrijstaat**
+
 
 ###### More information will be added as soon as necessary.
