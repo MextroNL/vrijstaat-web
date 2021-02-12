@@ -1250,7 +1250,7 @@ button:active{
 .footer-widget-icon{
     height: 6vmax;
     width: 6vmax;
-    background-color: #332f32;
+    /*background-color: #332f32;*/
     border-radius: 50%;
     display: inline-block;
     color: #fff;
@@ -1296,7 +1296,7 @@ button:active{
 .copyrightbottom{
     text-align: center;
     margin: auto;
-    padding-top: 2vmax;
+    padding-top: 0vmax;
 }
 
 .copyrightbottom a{
@@ -2714,6 +2714,10 @@ img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
     .livecoinwatch-widget-1{
         transform: scale(1)!important;
         margin: auto!important;
+    }
+
+    .graph{
+        padding: 0!important;
     }
 }
 

@@ -58,7 +58,7 @@
             ?>
         </div>
     </div>
-    <div class="container">
+    <div class="container graph">
         <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script> <div class="livecoinwatch-widget-1" lcw-coin="ADA" lcw-base="EUR" lcw-secondary="BTC" lcw-period="m" lcw-color-tx="#ffffff" lcw-color-pr="#2a71d0" lcw-color-bg="#333333" lcw-border-w="0" lcw-digits="4" ></div>
     </div>
 
