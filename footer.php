@@ -4,7 +4,7 @@
     <div class="footer-widget-wrapper">
         <div class="navbar language_menu" id="footer-lang">
 
-<!--            --><?php
+<?php
 //            wp_nav_menu( array(
 //                'theme_location'    => 'lang-menu',
 //                'depth'             => 2,
@@ -15,7 +15,7 @@
 //                'fallback_cb'       => 'WP_Bootstrap_Navwalker::fallback',
 //                'walker'            => new WP_Bootstrap_Navwalker(),
 //            ) );
-//            ?>
+           ?>
 
 
         </div>
