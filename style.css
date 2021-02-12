@@ -2705,7 +2705,7 @@ img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
 
 .livecoinwatch-widget-1{
     transform: scale(2.5);
-    margin: 1vmax auto 1vmax auto;
+    margin: 1vmax auto 1vmax auto!important;
 }
 
 /*CSS END*/
