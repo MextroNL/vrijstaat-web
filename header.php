@@ -46,7 +46,8 @@
             // echo '<img id="headerimg" alt="headerimg" src="'; header_image(); echo '"/>';
         }
         elseif ( has_post_thumbnail() ) {the_post_thumbnail();}
-        else { //echo '<img id="headerimg" alt="headerimg" src="'; header_image(); echo '"/>';}
+        else { //echo '<img id="headerimg" alt="headerimg" src="'; header_image(); echo '"/>';
+            }
         ?>
     </div></a>
     </div>
