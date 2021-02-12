@@ -36,74 +36,6 @@
 
     <div class="container">
 
-
-
-
-
-
-
-<!--        <!--Index Post Block-->
-<!--        <div class="block3">-->
-<!---->
-<!---->
-<!--            --><?php
-//
-//            if (strpos($url,'/en/') !== false) {
-//                $category_id = 'english cat';
-//            }else{
-//                $category_id = '3';
-//            }
-//
-//            $catquery = new WP_Query( 'cat='. $category_id . '&posts_per_page=-1' );
-//
-//            if ( $catquery->have_posts() ) :
-//                while($catquery->have_posts()) : $catquery->the_post();
-//                    ?>
-<!---->
-<!---->
-<!--                    --><?php // ?>
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!--                        <div class="row post-block" id="post---><?php //the_ID(); ?><!--">-->
-<!---->
-<!--                                <!--                                     Thumbnail-->
-<!--<!--                                <a href="-->--><?php ////the_permalink(); ?><!--<!--#content"><div class="post-thumbnail">-->--><?php ////the_post_thumbnail('medium_large'); ?><!--<!--</div></a>-->-->
-<!--                                <!--                                     Thumbnail End-->
-<!---->
-<!--                            <a href="--><?php //the_permalink(); ?><!--#content">-->
-<!---->
-<!--                                <!--                                     Title-->
-<!--                               <h4 class="post-title">--><?php //the_title(); ?><!--</h4>-->
-<!---->
-<!---->
-<!---->
-<!--                                </a>-->
-<!---->
-<!---->
-<!--                        </div>-->
-<!--                        <!--                            Post Content End-->
-<!---->
-<!---->
-<!--                --><?php
-//                endwhile;?>
-<!---->
-<!--            --><?php
-//            else:
-//                echo '<h4 id="results">' . $nocurrentresults . '</h4>';
-//            endif; ?>
-<!--            --><?php //wp_reset_query(); // reset the query ?>
-<!--        </div>-->
-
-        <!--Container End-->
-
-
-
-
-
-    </div>
     <div class="block2">
         <div class="row footer-widget-wrapper">
             <?php
@@ -127,7 +59,9 @@
         </div>
     </div>
 
+    <div class="nomics-ticker-widget" data-name="Cardano" data-base="ADA" data-quote="EUR"></div><script src="https://widget.nomics.com/embed.js"></script>
 
+    </div>
 
 
 <?php get_footer(); ?>
