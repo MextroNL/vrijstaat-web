@@ -35,7 +35,7 @@ html{
     top: -15px!important;
     width: 100%!important;
     height: 100%!important;
-    opacity: 0.2;
+    opacity: 0.4;
 }
 
 body{
@@ -500,6 +500,7 @@ button:active{
     height: auto;
     width: 16vmax;
     transition: .1s ease;
+    filter: drop-shadow(0px 0px 21px rgba(255, 255, 255, 0.4));
 }
 
 .custom-logo:hover{
