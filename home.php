@@ -24,6 +24,7 @@
                 <div class="block1content">
 
                     <?php the_content();?>
+                    <a href="<?php the_permalink(); ?>over-ons/#content" class="perma-button">Leer Meer</a>
                 </div>
 
             <?php endwhile;
