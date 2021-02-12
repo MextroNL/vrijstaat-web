@@ -166,7 +166,7 @@ hr{
 }
 
 /*-------------------------------------------------------------------------------------------*/
-/*Header Styling*/
+/*erer Styling*/
 .navbar{
     height: 6%;
     /*background-color: #6B7D6A;*/
@@ -537,7 +537,7 @@ button:active{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 20vmax;
     padding-bottom: 5vmax;
     transition: .1s ease;
 }
