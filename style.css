@@ -2712,7 +2712,7 @@ img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
 /*Phone*/
 @media screen and (max-width: 480px) {
     .livecoinwatch-widget-1{
-        transform: scale(1)!important;
+        transform: scale(0.9)!important;
         margin: auto!important;
     }
 
