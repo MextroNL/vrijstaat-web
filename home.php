@@ -42,7 +42,7 @@
 
 
 
-<!--        <!--Index Post Block-->-->
+<!--        <!--Index Post Block-->
 <!--        <div class="block3">-->
 <!---->
 <!---->
@@ -69,13 +69,13 @@
 <!---->
 <!--                        <div class="row post-block" id="post---><?php //the_ID(); ?><!--">-->
 <!---->
-<!--                                <!--                                     Thumbnail-->-->
+<!--                                <!--                                     Thumbnail-->
 <!--<!--                                <a href="-->--><?php ////the_permalink(); ?><!--<!--#content"><div class="post-thumbnail">-->--><?php ////the_post_thumbnail('medium_large'); ?><!--<!--</div></a>-->-->
-<!--                                <!--                                     Thumbnail End-->-->
+<!--                                <!--                                     Thumbnail End-->
 <!---->
 <!--                            <a href="--><?php //the_permalink(); ?><!--#content">-->
 <!---->
-<!--                                <!--                                     Title-->-->
+<!--                                <!--                                     Title-->
 <!--                               <h4 class="post-title">--><?php //the_title(); ?><!--</h4>-->
 <!---->
 <!---->
@@ -84,7 +84,7 @@
 <!---->
 <!---->
 <!--                        </div>-->
-<!--                        <!--                            Post Content End-->-->
+<!--                        <!--                            Post Content End-->
 <!---->
 <!---->
 <!--                --><?php
