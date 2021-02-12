@@ -178,11 +178,11 @@ hr{
 /*Collapse Style*/
 .navbar-toggler{
     margin: auto;
-    color: #2A2829;
+    color: #fff;
     font-size: 3.5vmax;
     padding: 8px;
     text-align: center;
-    border: 2px solid #2A2829;
+    border: 2px solid #fff;
     border-radius: 17px;
     outline: none;
 
