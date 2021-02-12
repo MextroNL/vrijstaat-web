@@ -34,7 +34,7 @@
     </div>
 
 
-    <div class="container">
+
 
     <div class="block2">
         <div class="row footer-widget-wrapper">
@@ -58,9 +58,8 @@
             ?>
         </div>
     </div>
-
-    <div class="nomics-ticker-widget" data-name="Cardano" data-base="ADA" data-quote="EUR"></div><script src="https://widget.nomics.com/embed.js"></script>
-
+    <div class="container">
+        <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script> <div class="livecoinwatch-widget-1" lcw-coin="ADA" lcw-base="EUR" lcw-secondary="BTC" lcw-period="m" lcw-color-tx="#ffffff" lcw-color-pr="#2a71d0" lcw-color-bg="#333333" lcw-border-w="0" lcw-digits="4" ></div>
     </div>
 
 
