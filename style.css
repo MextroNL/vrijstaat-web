@@ -1090,7 +1090,7 @@ button:active{
     display: block;
     text-align: center;
     background-color: #fff;
-    color: #2A2829;
+    color: #2A2829!important;
     font-family: 'Abel', sans-serif;;
     font-weight: 300;
     font-size: 1.3vmax;
@@ -1107,7 +1107,7 @@ button:active{
 .perma-button:hover{
     text-decoration: none;
     background-color: #2A2829;
-    color: #fff;
+    color: #fff!important;
 }
 
 .single-button{
