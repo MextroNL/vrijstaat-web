@@ -1089,8 +1089,8 @@ button:active{
 .perma-button{
     display: block;
     text-align: center;
-    background-color: #2A2829;
-    color: #2A2829;
+    background-color: #fff;
+    color: #2A2829!important;
     font-family: 'Abel', sans-serif;;
     font-weight: 300;
     font-size: 1.3vmax;
@@ -1100,13 +1100,14 @@ button:active{
     padding-left: 1vmax;
     padding-right: 1vmax;
     border-radius: 1vmax;
-    margin: auto;
+    margin: auto auto 2vmax auto;
+    text-decoration: none!important;
 }
 
 .perma-button:hover{
     text-decoration: none;
-    background-color: #424041;
-    color: #2A2829;
+    background-color: #2A2829;
+    color: #fff;
 }
 
 .single-button{
