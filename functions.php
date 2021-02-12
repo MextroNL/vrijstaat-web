@@ -6,7 +6,6 @@ $args = array(
     'width'         => 1920,
     'flex-height'    => false,
     'height'        => 617,
-    'default-image' => ,
 );
 add_theme_support( 'custom-header', $args );
 
